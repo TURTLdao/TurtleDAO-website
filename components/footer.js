@@ -42,10 +42,10 @@ export default function Footer() {
           <div className="">
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
         
-            <Link href="https://twitter.com/_TurtleDAO" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
+            <Link style={{ background: '#4CAF50' }} href="https://twitter.com/_TurtleDAO" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
               Twitter
             </Link>
-            <Link href="https://discord.gg/FNQ2BXpqkM" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
+            <Link style={{ background: '#4CAF50' }} href="https://discord.gg/FNQ2BXpqkM" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
               Discord
             </Link>
     
