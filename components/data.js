@@ -19,22 +19,22 @@ const benefitOne = {
     {
       title: "Regular Auditing",
       desc: "While most organizations typically conduct a single audit, our dedication lies in consistently monitoring and ensuring the continued compliance and positive conduct of our verified projects.",
-      icon: <FaceSmileIcon />,
+      icon: <FaceSmileIcon style={{ background: '#4CAF50'}}/>,
     },
     {
       title: "Funding New Projects",
       desc: "In addition to project verification, we pledge our commitment to supporting their financial stability and future growth by assisting in fundraising for liquidity and development purposes.",
-      icon: <BanknotesIcon/>,
+      icon: <BanknotesIcon style={{ background: '#4CAF50'}}/>,
     },
     {
       title: "Community Driven",
       desc: "TurtleDAO prioritizes the well-being of the community, valuing their input and ensuring their voices are heard in every decision we make.",
-      icon: <UsersIcon/>,
+      icon: <UsersIcon style={{ background: '#4CAF50'}}/>,
     },
     {
       title: "Open-Source",
       desc: "TurtleDAO embraces a commitment to openness and transparency. Our unwavering dedication is reflected in our open-source approach, making every line of code and resource readily accessible under a GitHub license.",
-      icon: <EyeIcon/>,
+      icon: <EyeIcon style={{ background: '#4CAF50'}}/>,
     },
   ],
 };
