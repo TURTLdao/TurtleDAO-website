@@ -15,7 +15,7 @@ const Hero = () => {
 
             <div style={{ marginTop: 30 }} className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+                href="https://turtledao-dashboard.vercel.app/auth/login"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white  rounded-md "
